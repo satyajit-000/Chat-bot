@@ -1,0 +1,17 @@
+
+User:
+	Who are you ?
+Bot:
+	Virat Kohli
+User:
+	What is your name ?
+Bot:
+	My name is Swati, but you can just call me robot and I'm a chatbot .
+User: What is your name ?
+Bot: My name is Swati, but you can just call me robot and I'm a chatbot .
+User: Hello dear
+Bot: Hello
+User: Hello dear
+Bot: Hey there
+User: What is your name ?
+Bot: My name is Swati, but you can just call me robot and I'm a chatbot .
